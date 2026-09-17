@@ -9,7 +9,7 @@ project:
 
   contributors:
     - id: supervisor-1
-      name: prof. dr. John Doe
+      name: Jochem Bot
       affiliations:
         - tud
     - id: committee-1
